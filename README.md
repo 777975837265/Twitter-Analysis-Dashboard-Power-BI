@@ -1,9 +1,11 @@
 TWITTER ANALYSIS DASHBOARD- POWER BI
 
-index.html
+CONTENTS
 
-Twitter Analysis Dashboard Internship.pdf
+1.index.html
 
-Internship Report.pdf
+2.Twitter Analysis Dashboard Internship.pdf
 
-Twitter AnalysisDashboard.pbix
+3.Internship Report.pdf
+
+4.Twitter AnalysisDashboard.pbix
